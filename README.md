@@ -4,5 +4,4 @@
 - 🌱 I’m currently learning GCP in hopes of taking the Associate Cloud Engineer Certification exam.  
 - 💞️ I’m looking to collaborate on open-source & closed-source projects in an array of fields including, but not limited to: 
 		Android APIs, cryptocurrencies, blockchains, big data, quantum computing, and artificial intelligence.
-- 📫 You can reach me at tyleranzelone@outlook.com (for official inquiries only).
-	
+- 📫 You can reach me at tyleranzelone AT outlook.com (for official inquiries), or check out my website to learn more about me: https://www.tyleranzelone.com.
