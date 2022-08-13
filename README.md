@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anzetv
 - 👀 I’m interested in Java, Android app development, and ice hockey, amongst other things.
-- 🧑‍💻 I am building apps using a Full-Stack tech stack: Spring Boot web framework, MySQL, Hibernate ORM, Java Persistence API's, Thymeleaf template engine, etc. 
+- 🧑‍💻 I am a Full-Stack developer; my tech stack includes Spring Boot, MySQL, Hibernate ORM, JPA, Thymeleaf, and more, and I am continuously learning more! 
 - 🌱 I’m currently learning GCP in hopes of taking the Associate Cloud Engineer Certification exam.  
 - 💞️ I’m looking to collaborate on open-source & closed-source projects in an array of fields including, but not limited to: 
-		Android APIs, cryptocurrencies, blockchains, big data, quantum computing, and artificial intelligence.
-- 📫 You can reach me at tyleranzelone AT outlook.com (for official inquiries), or check out my website to learn more about me: https://www.tyleranzelone.com.
+	- Android APIs, cryptocurrencies, blockchains, big data, quantum computing, and artificial intelligence.
+- 📫 You can reach me at tyleranzelone AT gmail.com (for official inquiries), or check out my website to learn more about me: https://www.tyleranzelone.com.
