@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anzetv
 - 👀 I love Java, Android app development, ice hockey, and plenty more.
 - 🧑‍💻 I am a Full-Stack developer; my tech stack includes Java SE 8/11, Spring Boot, MySQL, Hibernate ORM, JPA, Thymeleaf, and more, and I of course am always continuously learning. [Link to my tech stack](https://www.tyleranzelone.com/tech/).
-- 🌱 I’m currently learning GCP in order to pass the Associate Cloud Engineer Certification exam. 
 - 💞️ I’d love to collaborate on both open-source & closed-source projects in an array of fields including, but not limited to: 
 	- Android APIs
 	- Cryptography
