@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @anzetv
-- 👀 I love Java, Android app development, ice hockey, and plenty more.
-- 🧑‍💻 I am a Full-Stack developer; my tech stack includes Java SE 8/11, Spring Boot, MySQL, Hibernate ORM, JPA, Thymeleaf, and more, and I of course am always continuously learning. [Link to my tech stack](https://www.tyleranzelone.com/tech/).
-- 💞️ I’d love to collaborate on both open-source & closed-source projects in an array of fields including, but not limited to: 
+-  Hi, I’m @anzetv; I love Java programming, cross-platform mobile app development, ice hockey, and more.
+-  I am a Full-Stack web developer; my tech stack includes Java, Spring Boot, MySQL, Javascript, SQL, C#, Xamarin.Forms and more, and I am always continuously learning more. 
+	- [Here's a link to my tech stack](https://www.tyleranzelone.com/tech/).
+-  I’d love to collaborate on both open-source & closed-source projects in an array of fields including, but not limited to: 
+	- Web Development
+	- Cross-Platform Web Development
 	- Android APIs
 	- Cryptography
 	- Digital Privacy
@@ -9,4 +11,4 @@
 	- Blockchains
 	- Quantum Computing
 	- Artificial Intelligence.
-- 📫 You can reach me at tyleranzelone AT gmail.com (for official inquiries), or check out my [website to learn more about me](https://www.tyleranzelone.com).
+-  You can reach me at tyleranzelone AT gmail.com (for official inquiries), or check out my [website for more about me](https://www.tyleranzelone.com).
